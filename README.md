@@ -1,4 +1,4 @@
-# 🖥️ OS & C Programming Lab
+# 🖥️ OS Lab
 **Author:** Tanumay Chatterjee  
 **Course:** B.Tech in Computer Science and Engineering  
 **Specialization:** Data Science Honors
